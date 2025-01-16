@@ -1,0 +1,12 @@
+# ninja log v6
+9	781	7585975483428679	CMakeFiles/midi_tool.dir/HeaderChunk.cpp.obj	c26cbf7a59459fc3
+6	304	7585978188283600	CMakeFiles/midi_tool.dir/Chunk.cpp.obj	92fab76871c1ff21
+4	300	7586768968732805	CMakeFiles/midi_tool.dir/Utils.cpp.obj	5262c4265c839400
+4	459	7586763307044657	CMakeFiles/midi_tool.dir/main.cpp.obj	cc0605e5a3ea99c2
+14	451	7586763307144666	CMakeFiles/midi_tool.dir/MIDIFile.cpp.obj	dadc4d892a009294
+29	136	7586643546425303	CMakeFiles/midi_tool.dir/Divisions/Division.cpp.obj	f53f316c2a723c8c
+301	389	7586768971698253	midi_tool.exe	5d53afec1ae17cf1
+37	135	7586643546500438	CMakeFiles/midi_tool.dir/Divisions/TimeCodeDivision.cpp.obj	a569fbe757578633
+33	137	7586643546460304	CMakeFiles/midi_tool.dir/Divisions/MetricTimeDivision.cpp.obj	49dd77bb34059f34
+8	327	7586763307084662	CMakeFiles/midi_tool.dir/Chunks/HeaderChunk.cpp.obj	cb7d000f86dadc88
+11	326	7586763307114678	CMakeFiles/midi_tool.dir/Chunks/Chunk.cpp.obj	d30a7b9bd69a863

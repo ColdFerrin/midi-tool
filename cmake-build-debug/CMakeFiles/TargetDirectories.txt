@@ -1,0 +1,3 @@
+C:/Users/ferri/CLionProjects/midi-tool/cmake-build-debug/CMakeFiles/midi_tool.dir
+C:/Users/ferri/CLionProjects/midi-tool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferri/CLionProjects/midi-tool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
